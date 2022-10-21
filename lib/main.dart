@@ -20,7 +20,7 @@ class home extends StatelessWidget {
             ),
 
             SizedBox(
-              height: 52,
+              height: 50,
             ),
 
             TextField(
